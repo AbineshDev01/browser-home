@@ -23,16 +23,15 @@
 }
 
 :root {
-	/* 🔵🔵🔵 */
+ 	/* 🔵🔵🔵 */
 	/* ⚠️ Please don't change the color value or names for Blue (if ? modifying code would be difficult */
-	--bg-color-blue: #bbd6fd;
+/*	--bg-color-blue: #bbd6fd;
 	--accentLightTint-blue: #e2eeff;
 	--darkerColor-blue: #3569b2;
 	--darkColor-blue: #4382ec;
 	--textColorDark-blue: #1b3041;
 	--whitishColor-blue: #ffffff;
 
-	/* 🔴🔴🔴 */
 	--bg-color-red: #fdbdbd;
 	--accentLightTint-red: #ffe7e7;
 	--darkerColor-red: #b23535;
@@ -40,7 +39,6 @@
 	--textColorDark-red: #411b1b;
 	--whitishColor-red: #ffffff;
 
-	/* 🟡🟡🟡 */
 	--bg-color-yellow: #ffed80;
 	--accentLightTint-yellow: #fff6c3;
 	--darkerColor-yellow: #ae9502;
@@ -48,7 +46,7 @@
 	--textColorDark-yellow: #2f2707;
 	--whitishColor-yellow: #ffffff;
 
-	/* 🟢🟢🟢 */
+
 	--bg-color-green: #c7e4c7;
 	--accentLightTint-green: #e1f1e1;
 	--darkerColor-green: #458245;
@@ -56,12 +54,11 @@
 	--textColorDark-green: #1b411b;
 	--whitishColor-green: #ffffff;
 
-	/* Cyan */
-	/* --bg-color-cyan: #9bffff;
+	 --bg-color-cyan: #9bffff;
     --accentLightTint-cyan: #d5ffff;
     --darkerColor-cyan: #5E9CA0;
     --darkColor-cyan: #00CED1;
-    --textColorDark-cyan: #08354B; */
+    --textColorDark-cyan: #08354B; 
 
 	--bg-color-cyan: #9cefef;
 	--accentLightTint-cyan: #d5ffff;
@@ -69,8 +66,7 @@
 	--darkColor-cyan: #09b2b4;
 	--textColorDark-cyan: #08354b;
 	--whitishColor-cyan: #ffffff;
-
-	/* 🩷💗🩷 */
+	
 	--bg-color-pink: #f9c8d6;
 	--accentLightTint-pink: #ffebf2;
 	--darkerColor-pink: #b24b64;
@@ -78,7 +74,6 @@
 	--textColorDark-pink: #411b28;
 	--whitishColor-pink: #ffffff;
 
-	/* 🟠🟠🟠 */
 	--bg-color-orange: #ffd8b2;
 	--accentLightTint-orange: #ffedd5;
 	--darkerColor-orange: #b26d3e;
@@ -86,15 +81,13 @@
 	--textColorDark-orange: #412b1e;
 	--whitishColor-orange: #ffffff;
 
-	/* 🟣🟣🟣 */
 	--bg-color-purple: #dac2e8;
 	--accentLightTint-purple: #e9e2f3;
 	--darkerColor-purple: #724b8f;
 	--darkColor-purple: #9563b5;
 	--textColorDark-purple: #2d1b3e;
 	--whitishColor-purple: #ffffff;
-
-	/* ⚪ Silver */
+	
 	--bg-color-silver: #c6c6c6;
 	--accentLightTint-silver: #e5e5e5;
 	--darkerColor-silver: #6f6f6f;
@@ -102,7 +95,6 @@
 	--textColorDark-silver: #333333;
 	--whitishColor-silver: #ffffff;
 
-	/* 🟤🟤🟤 */
 	--bg-color-brown: #dfc28d;
 	--accentLightTint-brown: #eae3c9;
 	--darkerColor-brown: #4e3930;
@@ -110,13 +102,12 @@
 	--textColorDark-brown: #16100d;
 	--whitishColor-brown: #ffffff;
 
-	/* 🩶🩶🩶 Grey */
 	--bg-color-grey: #565656;
 	--accentLightTint-grey: #818181;
 	--darkerColor-grey: #262626;
 	--darkColor-grey: #434343;
 	--textColorDark-grey: #111111;
-	--whitishColor-grey: #999999;
+	--whitishColor-grey: #999999; */
 
 
 	/* ⚫⚫⚫ */
